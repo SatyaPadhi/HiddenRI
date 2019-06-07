@@ -6,5 +6,9 @@ namespace FileTransfer
 {
     public class BTree
     {
+        public BTree()
+        {
+
+        }
     }
 }
